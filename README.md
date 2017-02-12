@@ -12,6 +12,7 @@ A curated list of deep learning resources for Art
 
 ### Stylization
 * A Neural Algorithm of Artistic Style [[Paper]](https://arxiv.org/pdf/1508.06576v2.pdf)[[Github]](https://github.com/jcjohnson/neural-style)
+* Fast Style Transfer [[Github]](https://github.com/lengstrom/fast-style-transfer)
 
 ### Generative
 * Inceptionism: Going Deeper into Neural Networks [[Post]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[[Github]](https://github.com/google/deepdream)
