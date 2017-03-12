@@ -5,6 +5,7 @@ A curated list of deep learning resources for Art
 
 ### Simplification
 * Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup [[Paper]](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf)[[Demo]](http://hi.cs.waseda.ac.jp:8081/)
+* DeepAA: make Ascii Art by Deep Learing [[Github]](https://github.com/OsciiArt/DeepAA)
 
 ### Colorization
 * Colorful Image Colorization [[Paper]](https://arxiv.org/pdf/1603.08511.pdf)[[Demo]](http://demos.algorithmia.com/colorize-photos/)[[Github]](https://github.com/richzhang/colorization)
