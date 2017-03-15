@@ -19,5 +19,6 @@ A curated list of deep learning resources for Art
 
 ### Generative
 * Inceptionism: Going Deeper into Neural Networks [[Post]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[[Github]](https://github.com/google/deepdream)
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1511.06434)[[Github]](https://github.com/Newmu/dcgan_code)
 * High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis [[Paper]](https://arxiv.org/abs/1611.09969)[[Github]](https://github.com/leehomyc/High-Res-Neural-Inpainting)
 * DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation [[Paper]](http://sites.skoltech.ru/compvision/projects/deepwarp/files/deepwarp_eccv2016.pdf)[[Demo]](http://sites.skoltech.ru/compvision/projects/deepwarp/)
