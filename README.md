@@ -16,7 +16,7 @@ A curated list of deep learning resources for Art
 * Fast Style Transfer [[Github]](https://github.com/lengstrom/fast-style-transfer)
 * Texture Networks: Feed-forward Synthesis of Textures and Stylized Images [[Paper]](https://arxiv.org/abs/1603.03417)[[Github]](https://github.com/DmitryUlyanov/texture_nets)
 * Artistic style transfer for videos [[Paper]](https://arxiv.org/abs/1604.08610)[[Github]](https://github.com/manuelruder/artistic-videos)
-* Deep Photo Style Transfer [[Paper]](https://arxiv.org/abs/1703.07511)[[Github]]https://github.com/luanfujun/deep-photo-styletransfer)
+* Deep Photo Style Transfer [[Paper]](https://arxiv.org/abs/1703.07511)[[Github]](https://github.com/luanfujun/deep-photo-styletransfer)
 
 ### Generative
 * Inceptionism: Going Deeper into Neural Networks [[Post]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)[[Github]](https://github.com/google/deepdream)
